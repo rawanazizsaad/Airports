@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Airports/static/css/main.40064a40.chunk.css",
+    "main.js": "/Airports/static/js/main.b3f6dca8.chunk.js",
+    "main.js.map": "/Airports/static/js/main.b3f6dca8.chunk.js.map",
+    "runtime~main.js": "/Airports/static/js/runtime~main.c6e944a9.js",
+    "runtime~main.js.map": "/Airports/static/js/runtime~main.c6e944a9.js.map",
+    "static/css/2.4e9f5f40.chunk.css": "/Airports/static/css/2.4e9f5f40.chunk.css",
+    "static/js/2.65ecea91.chunk.js": "/Airports/static/js/2.65ecea91.chunk.js",
+    "static/js/2.65ecea91.chunk.js.map": "/Airports/static/js/2.65ecea91.chunk.js.map",
+    "static/js/3.1629fdc3.chunk.js": "/Airports/static/js/3.1629fdc3.chunk.js",
+    "static/js/3.1629fdc3.chunk.js.map": "/Airports/static/js/3.1629fdc3.chunk.js.map",
+    "index.html": "/Airports/index.html",
+    "precache-manifest.b0cce461d4436527662f14564572f545.js": "/Airports/precache-manifest.b0cce461d4436527662f14564572f545.js",
+    "service-worker.js": "/Airports/service-worker.js",
+    "static/css/2.4e9f5f40.chunk.css.map": "/Airports/static/css/2.4e9f5f40.chunk.css.map",
+    "static/css/main.40064a40.chunk.css.map": "/Airports/static/css/main.40064a40.chunk.css.map",
+    "static/media/all.min.css": "/Airports/static/media/fa-v4compatibility.c9e50cca.woff2",
+    "static/media/face.png": "/Airports/static/media/face.7c8d991e.png",
+    "static/media/fly.jpg": "/Airports/static/media/fly.450c5f91.jpg",
+    "static/media/git.png": "/Airports/static/media/git.cc8d90e1.png",
+    "static/media/Footer.css": "/Airports/static/media/img.812cb02f.png",
+    "static/media/user.svg": "/Airports/static/media/user.4a87f83d.svg"
+  }
+}
